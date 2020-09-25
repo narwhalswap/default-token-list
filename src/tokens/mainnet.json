@@ -13,7 +13,7 @@
     "symbol": "BTCB",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/bitcoin/info/logo.png"
   },
   {
     "name": "Ethereum Token",
@@ -21,7 +21,7 @@
     "symbol": "ETH",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png"
   },
   {
     "name": "Tether USD",
@@ -29,7 +29,7 @@
     "symbol": "USDT",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0x55d398326f99059fF775485246999027B3197955.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
   },
   {
     "name": "XRP Token",
@@ -37,7 +37,7 @@
     "symbol": "XRP",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ripple/info/logo.png"
   },
   {
     "name": "ChainLink Token",
@@ -45,7 +45,7 @@
     "symbol": "LINK",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/LINK-AAD/logo.png"
   },
   {
     "name": "Bitcoin Cash Token",
@@ -53,7 +53,7 @@
     "symbol": "BCH",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/bitcoincash/info/logo.png"
   },
   {
     "name": "Polkadot Token",
@@ -61,7 +61,7 @@
     "symbol": "DOT",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polkadot/info/logo.png"
   },
   {
     "name": "Litecoin Token",
@@ -69,7 +69,7 @@
     "symbol": "LTC",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/litecoin/info/logo.png"
   },
   {
     "name": "EOS Token",
@@ -77,7 +77,7 @@
     "symbol": "EOS",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/eos/info/logo.png"
   },
   {
     "name": "Cardano Token",
@@ -85,7 +85,7 @@
     "symbol": "ADA",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47.png"
   },
   {
     "name": "Tezos Token",
@@ -93,7 +93,7 @@
     "symbol": "XTZ",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0x16939ef78684453bfDFb47825F8a5F714f12623a.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/0x16939ef78684453bfDFb47825F8a5F714f12623a.png"
   },
   {
     "name": "Ontology Token",
@@ -101,7 +101,7 @@
     "symbol": "ONT",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0xFd7B3A77848f1C2D67E05E54d78d174a0C850335.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/0xFd7B3A77848f1C2D67E05E54d78d174a0C850335.png"
   },
   {
     "name": "Dai Token",
@@ -109,7 +109,7 @@
     "symbol": "DAI",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/DAI-D75/logo.png"
   },
   {
     "name": "Band Protocol Token",
@@ -117,7 +117,7 @@
     "symbol": "BAND",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55/logo.png"
   },
   {
     "name": "BUSD Token",
@@ -125,7 +125,7 @@
     "symbol": "BUSD",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png"
   },
   {
     "name": "Prometeus",
@@ -133,7 +133,7 @@
     "symbol": "PROM",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0xaF53d56ff99f1322515E54FdDE93FF8b3b7DAFd5.png"
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/images/0xaF53d56ff99f1322515E54FdDE93FF8b3b7DAFd5.png"
   },
   {
     "name": "CanYaCoin",
@@ -141,7 +141,7 @@
     "symbol": "CAN",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0x007EA5C0Ea75a8DF45D288a4debdD5bb633F9e56.png"
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/images/0x007EA5C0Ea75a8DF45D288a4debdD5bb633F9e56.png"
   },
   {
     "name": "SPARTAN PROTOCOL TOKEN",
@@ -149,15 +149,7 @@
     "symbol": "SPARTA",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0xE4Ae305ebE1AbE663f261Bc00534067C80ad677C.png"
-  },
-  {
-    "name": "Milk Protocol",
-    "address": "0x8E9f5173e16Ff93F81579d73A7f9723324d6B6aF",
-    "symbol": "MILK",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0x8E9f5173e16Ff93F81579d73A7f9723324d6B6aF.png"
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/images/0xE4Ae305ebE1AbE663f261Bc00534067C80ad677C.png"
   },
   {
     "name": "Burger Swap",
@@ -165,31 +157,7 @@
     "symbol": "BURGER",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f.png"
-  },
-  {
-    "name": "PeachToken",
-    "address": "0xaCd6b5f76Db153FB45EAE6D5be5BDbd45d1b2A8C",
-    "symbol": "PEACH",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0xaCd6b5f76Db153FB45EAE6D5be5BDbd45d1b2A8C.png"
-  },
-  {
-    "name": "TunaToken",
-    "address": "0x40929FB2008c830731A3d972950bC13f70161c75",
-    "symbol": "TUNA",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0x40929FB2008c830731A3d972950bC13f70161c75.png"
-  },
-  {
-    "name": "Coco Token",
-    "address": "0xEe32Ef531e4E5449dA39cEF5D04Df1010ff8f60C",
-    "symbol": "COCO",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0xEe32Ef531e4E5449dA39cEF5D04Df1010ff8f60C.png"
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/images/0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f.png"
   },
   {
     "name": "BakeryToken",
@@ -197,7 +165,7 @@
     "symbol": "BAKE",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5.png"
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/images/0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5.png"
   },
   {
     "name": "Cosmos Token",
@@ -205,7 +173,7 @@
     "symbol": "ATOM",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0x0Eb3a705fc54725037CC9e008bDede697f62F335.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/cosmos/info/logo.png"
   },
   {
     "name": "Zcash Token",
@@ -213,7 +181,7 @@
     "symbol": "ZEC",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/zcash/info/logo.png"
   },
   {
     "name": "YFII.finance Token",
@@ -221,23 +189,7 @@
     "symbol": "YFII",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0x7F70642d88cf1C4a3a7abb072B53B929b653edA5.png"
-  },
-  {
-    "name": "VTBC",
-    "address": "0x2Ecb95eB932DfBBb71545f4D23CA303700aC855F",
-    "symbol": "VTBC",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0x2Ecb95eB932DfBBb71545f4D23CA303700aC855F.png"
-  },
-  {
-    "name": "BFis.Finance",
-    "address": "0xAFa4f3D72f0803B50C99663B3E90806d9D290770",
-    "symbol": "BFI",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0xAFa4f3D72f0803B50C99663B3E90806d9D290770.png"
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/images/0x7F70642d88cf1C4a3a7abb072B53B929b653edA5.png"
   },
   {
     "name": "Cream",
@@ -245,23 +197,7 @@
     "symbol": "CREAM",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0xd4CB328A82bDf5f03eB737f37Fa6B370aef3e888.png"
-  },
-  {
-    "name": "Cream BNB",
-    "address": "0x1Ffe17B99b439bE0aFC831239dDECda2A790fF3A",
-    "symbol": "crBNB",
-    "decimals": 8,
-    "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0x1Ffe17B99b439bE0aFC831239dDECda2A790fF3A.png"
-  },
-  {
-    "name": "Cream Binance USD",
-    "address": "0x2Bc4eb013DDee29D37920938B96d353171289B7C",
-    "symbol": "crBUSD",
-    "decimals": 8,
-    "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0x2Bc4eb013DDee29D37920938B96d353171289B7C.png"
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/images/0xd4CB328A82bDf5f03eB737f37Fa6B370aef3e888.png"
   },
   {
     "name": "The Force Token",
@@ -269,7 +205,7 @@
     "symbol": "FOR",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0x658A109C5900BC6d2357c87549B651670E5b0539.png"
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/images/0x658A109C5900BC6d2357c87549B651670E5b0539.png"
   },
   {
     "name": "Anyswap-BEP20",
@@ -277,31 +213,7 @@
     "symbol": "ANY",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0xF68C9Df95a18B2A5a5fa1124d79EEEffBaD0B6Fa.png"
-  },
-  {
-    "name": "Uniswap-BEP20",
-    "address": "0x99C5A2Fcc97b59FE6D0B56e21e72B002F644123F",
-    "symbol": "anyUNI",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0x99C5A2Fcc97b59FE6D0B56e21e72B002F644123F.png"
-  },
-  {
-    "name": "BillionHappiness",
-    "address": "0xA6381C6Fd8f40A44721eF4f61eDc1a8CCCa7BF3d",
-    "symbol": "BHC",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0xA6381C6Fd8f40A44721eF4f61eDc1a8CCCa7BF3d.png"
-  },
-  {
-    "name": "beefy.finance",
-    "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
-    "symbol": "BIFI",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0xCa3F508B8e4Dd382eE878A314789373D80A5190A.png"
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/images/0xF68C9Df95a18B2A5a5fa1124d79EEEffBaD0B6Fa.png"
   },
   {
     "name": "JustLiquidity",
@@ -309,15 +221,7 @@
     "symbol": "JULb",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0x32dFFc3fE8E3EF3571bF8a72c0d0015C5373f41D.png"
-  },
-  {
-    "name": "Propel",
-    "address": "0x9B44Df3318972bE845d83f961735609137C4C23c",
-    "symbol": "PROPEL",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0x9B44Df3318972bE845d83f961735609137C4C23c.png"
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/images/0x32dFFc3fE8E3EF3571bF8a72c0d0015C5373f41D.png"
   },
   {
     "name": "Pancake",
@@ -325,6 +229,6 @@
     "symbol": "CAKE",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://tokens.narwhalswap.com/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
   }
 ]

@@ -1,5 +1,7 @@
 # @narwhalswap/default-token-list
 
+This project fork from Uniswap and modify for token on Binance Smart Chain
+
 [![Tests](https://github.com/narwhalswap/default-token-list/workflows/Tests/badge.svg)](https://github.com/narwhalswap/default-token-list/actions?query=workflow%3ATests)
 [![npm](https://img.shields.io/npm/v/@narwhalswap/default-token-list)](https://unpkg.com/@narwhalswap/default-token-list@latest/)
 
