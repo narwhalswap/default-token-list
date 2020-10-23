@@ -238,5 +238,21 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
-  }  
+  },
+  {
+    "name": "Thugs.Finance",
+    "address": "0xE10e9822A5de22F8761919310DDA35CD997d63c0",
+    "symbol": "THUGS",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0xE10e9822A5de22F8761919310DDA35CD997d63c0.png"
+  },
+  {
+    "name": "DrugsToken",
+    "address": "0xfD26889cd6454D8751562f1c0FcF88b18B46F7B7",
+    "symbol": "DRUGS",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0xfD26889cd6454D8751562f1c0FcF88b18B46F7B7.png"
+  }
 ]
