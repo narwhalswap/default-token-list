@@ -254,5 +254,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0xfD26889cd6454D8751562f1c0FcF88b18B46F7B7.png"
+  },
+  {
+    "name": "dego.finance",
+    "address": "0x3fda9383a84c05ec8f7630fe10adf1fac13241cc",
+    "symbol": "DEGO",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0x3fda9383a84c05ec8f7630fe10adf1fac13241cc.png"
   }
 ]

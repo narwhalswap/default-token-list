@@ -5,7 +5,7 @@
     "symbol": "WBNB",
     "decimals": 18,
     "chainId": 97,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
   },
   {
     "name": "BTCB Token",
@@ -13,7 +13,7 @@
     "symbol": "BTCB",
     "decimals": 18,
     "chainId": 97,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/bitcoin/info/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
   },
   {
     "name": "Ethereum Token",
@@ -21,7 +21,7 @@
     "symbol": "ETH",
     "decimals": 18,
     "chainId": 97,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
   },
   {
     "name": "Tether USD",
@@ -37,7 +37,7 @@
     "symbol": "EOS",
     "decimals": 18,
     "chainId": 97,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/eos/info/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0x55d398326f99059fF775485246999027B3197955.png"
   },
   {
     "name": "Dai Token",
@@ -45,7 +45,7 @@
     "symbol": "DAI",
     "decimals": 18,
     "chainId": 97,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/DAI-D75/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png"
   },
   {
     "name": "BUSD Token",
@@ -53,6 +53,6 @@
     "symbol": "BUSD",
     "decimals": 18,
     "chainId": 97,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
   }
 ]
