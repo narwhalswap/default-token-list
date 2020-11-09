@@ -24,6 +24,14 @@
     "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0x8f4087Cb09E0F378f4278a314C94A636665dE24b.png"
   },
   {
+    "name": "NAR Ticket Token",
+    "address": "0x4BbB275012EBE258556B8debE5C07bE98e8d3859",
+    "symbol": "GEM",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0x4BbB275012EBE258556B8debE5C07bE98e8d3859.png"
+  },
+  {
     "name": "BTCB Token",
     "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
     "symbol": "BTCB",
