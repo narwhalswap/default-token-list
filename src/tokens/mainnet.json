@@ -286,5 +286,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0x3FdA9383A84C05eC8f7630Fe10AdF1fAC13241CC.png"
+  },
+  {
+    "name": "Bliquid",
+    "address": "0xC97faC34CeB0Bb1B2bdAf3b59ADA378b99111a22",
+    "symbol": "BLIQ",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0xC97faC34CeB0Bb1B2bdAf3b59ADA378b99111a22.png"
   }
 ]
