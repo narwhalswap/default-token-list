@@ -32,6 +32,14 @@
     "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0x4BbB275012EBE258556B8debE5C07bE98e8d3859.png"
   },
   {
+    "name": "The Grand Banks Token",
+    "address": "0xeE814F5B2bF700D2e843Dc56835D28d095161dd9",
+    "symbol": "GRAND",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0xeE814F5B2bF700D2e843Dc56835D28d095161dd9.png"
+  },
+  {
     "name": "BTCB Token",
     "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
     "symbol": "BTCB",
