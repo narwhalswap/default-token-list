@@ -310,5 +310,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0x03D6BD3d48F956D783456695698C407A46ecD54d.png"
+  },
+  {
+    "name": "USD Coin",
+    "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+    "symbol": "USDC",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
   }
 ]
