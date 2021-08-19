@@ -933,7 +933,7 @@
     "symbol": "rUSD",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://rampdefi.com/assets/rUSD-Logo-200.png"
+    "logoURI": "https://appv2.rampdefi.com/assets/icon/rusdc.svg"
   },
   {
     "name": "polySAFU",
@@ -1037,7 +1037,7 @@
     "symbol": "USDC",
     "decimals": 6,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d.png"
   },
   {
     "name": "Tether USD",
@@ -1085,7 +1085,7 @@
     "symbol": "WMATIC",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/thegrandbanks-assets/main/networks/polygon-network.jpg"
   },
   {
     "name": "moonwolf.io",
