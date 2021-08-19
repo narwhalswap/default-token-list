@@ -6,7 +6,7 @@ const matic = require('./tokens/matic.json');
 module.exports = function buildList() {
   const parsed = version.split('.');
   return {
-    'name': 'Narwhal Token List',
+    'name': 'Narwhalswap Tokens',
     'timestamp': (new Date().toISOString()),
     'version': {
       'major': +parsed[ 0 ],
