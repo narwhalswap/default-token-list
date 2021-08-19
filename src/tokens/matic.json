@@ -712,14 +712,6 @@
     "logoURI": "https://i.postimg.cc/CxvzF5bJ/moon-black.png"
   },
   {
-    "name": "Matic Rebalance Token",
-    "address": "0x66768ad00746aC4d68ded9f64886d55d5243f5Ec",
-    "symbol": "mRBAL",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://rebalancetoken.io/images/logo/logo.png"
-  },
-  {
     "name": "Must",
     "address": "0x9C78EE466D6Cb57A4d01Fd887D2b5dFb2D46288f",
     "symbol": "MUST",
@@ -885,15 +877,7 @@
     "symbol": "RAMP",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://rampdefi.com/assets/RAMP_LOGO_V4_256.png"
-  },
-  {
-    "name": "Rebalance Token",
-    "address": "0x03247a4368A280bEc8133300cD930A3a61d604f6",
-    "symbol": "RBAL",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "http://rebalancetoken.io/images/logo/RBAL_ERC20_small_001_256.png"
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x8519ea49c997f50ceffa444d240fb655e89248aa.png"
   },
   {
     "name": "Relay Token",
@@ -933,7 +917,7 @@
     "symbol": "rUSD",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://appv2.rampdefi.com/assets/icon/rusdc.svg"
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x07663837218A003e66310a01596af4bf4e44623D.png"
   },
   {
     "name": "polySAFU",
@@ -1037,7 +1021,7 @@
     "symbol": "USDC",
     "decimals": 6,
     "chainId": 137,
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   },
   {
     "name": "Tether USD",
@@ -1085,7 +1069,7 @@
     "symbol": "WMATIC",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/narwhalswap/thegrandbanks-assets/main/networks/polygon-network.jpg"
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/thegrandbanks-assets/main/native-tokens/matic.png"
   },
   {
     "name": "moonwolf.io",
