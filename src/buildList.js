@@ -1,11 +1,12 @@
 const { version } = require('../package.json');
 const mainnet = require('./tokens/mainnet.json');
 const testnet = require('./tokens/testnet.json');
+const matic = require('./tokens/matic.json');
 
 module.exports = function buildList() {
   const parsed = version.split('.');
   return {
-    'name': 'BEP20 Token List',
+    'name': 'Narwhalswap Token List',
     'timestamp': (new Date().toISOString()),
     'version': {
       'major': +parsed[ 0 ],
@@ -20,7 +21,8 @@ module.exports = function buildList() {
     ],
     tokens: [
       ...mainnet,
-      ...testnet
+      ...testnet,
+      ...matic
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
