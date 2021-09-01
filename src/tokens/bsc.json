@@ -5,7 +5,7 @@
     "symbol": "WBNB",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"    
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/bsc/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"    
   },
   {
     "name": "NAR Token",
@@ -13,7 +13,7 @@
     "symbol": "NAR",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0xA1303E6199b319a891b79685F0537D289af1FC83.png"
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/bsc/0xA1303E6199b319a891b79685F0537D289af1FC83.png"
   },
   {
     "name": "NAR Ticket Token",
@@ -21,7 +21,7 @@
     "symbol": "GOLD",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0x8f4087Cb09E0F378f4278a314C94A636665dE24b.png"
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/bsc/0x8f4087Cb09E0F378f4278a314C94A636665dE24b.png"
   },
   {
     "name": "NAR Dividend Token",
@@ -29,7 +29,7 @@
     "symbol": "GEM",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0x4BbB275012EBE258556B8debE5C07bE98e8d3859.png"
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/bsc/0x4BbB275012EBE258556B8debE5C07bE98e8d3859.png"
   },
   {
     "name": "The Grand Banks Token",
@@ -37,7 +37,7 @@
     "symbol": "GRAND",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0xeE814F5B2bF700D2e843Dc56835D28d095161dd9.png"
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/bsc/0xeE814F5B2bF700D2e843Dc56835D28d095161dd9.png"
   },
   {
     "name": "Anyswap-BEP20",
@@ -45,7 +45,7 @@
     "symbol": "ANY",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0xF68C9Df95a18B2A5a5fa1124d79EEEffBaD0B6Fa.png"
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/bsc/0xF68C9Df95a18B2A5a5fa1124d79EEEffBaD0B6Fa.png"
   },
   {
     "name": "JustLiquidity",
@@ -53,7 +53,7 @@
     "symbol": "JULb",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0x32dFFc3fE8E3EF3571bF8a72c0d0015C5373f41D.png"
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/bsc/0x32dFFc3fE8E3EF3571bF8a72c0d0015C5373f41D.png"
   },
   {
     "name": "Thugs.Finance",
@@ -61,7 +61,7 @@
     "symbol": "THUGS",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0xE10e9822A5de22F8761919310DDA35CD997d63c0.png"
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/bsc/0xE10e9822A5de22F8761919310DDA35CD997d63c0.png"
   },
   {
     "name": "Bliquid",
@@ -69,7 +69,7 @@
     "symbol": "BLIQ",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0xC97faC34CeB0Bb1B2bdAf3b59ADA378b99111a22.png"
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/bsc/0xC97faC34CeB0Bb1B2bdAf3b59ADA378b99111a22.png"
   },
   {
     "name": "HyperBurn",
@@ -77,7 +77,7 @@
     "symbol": "HYPR",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0x03D6BD3d48F956D783456695698C407A46ecD54d.png"
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/bsc/0x03D6BD3d48F956D783456695698C407A46ecD54d.png"
   },
   {
     "name": "PancakeSwap Token",

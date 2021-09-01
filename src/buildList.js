@@ -2,6 +2,7 @@ const { version } = require('../package.json');
 const bsc = require('./tokens/bsc.json');
 const bscTestnet = require('./tokens/bsc-testnet.json');
 const matic = require('./tokens/matic.json');
+const moonriver = require('./tokens/moonriver.json');
 
 module.exports = function buildList() {
   const parsed = version.split('.');
@@ -14,7 +15,7 @@ module.exports = function buildList() {
       'patch': +parsed[ 2 ]
     },
     'tags': {},
-    'logoURI': 'https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png',
+    'logoURI': 'https://raw.githubusercontent.com/trustwallet/assets/master/dapps/narwhalswap.org.png',
     'keywords': [
       'narwhalswap',
       'default'
@@ -22,7 +23,8 @@ module.exports = function buildList() {
     tokens: [
       ...bsc,
       ...bscTestnet,
-      ...matic
+      ...matic,
+      ...moonriver,
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
