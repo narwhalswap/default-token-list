@@ -2,7 +2,7 @@
   {
     "name": "Wrapped MOVR",
     "address": "0xE3C7487Eb01C74b73B7184D198c7fBF46b34E5AF",
-    "symbol": "WBNB",
+    "symbol": "WMOVR",
     "decimals": 18,
     "chainId": 1285,
     "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/moonriver/0xE3C7487Eb01C74b73B7184D198c7fBF46b34E5AF.png"
