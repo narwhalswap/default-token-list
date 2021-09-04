@@ -3,6 +3,7 @@ const bsc = require('./tokens/bsc.json');
 const bscTestnet = require('./tokens/bsc-testnet.json');
 const matic = require('./tokens/matic.json');
 const moonriver = require('./tokens/moonriver.json');
+const avalanche = require('./tokens/avalanche.json');
 
 module.exports = function buildList() {
   const parsed = version.split('.');
@@ -25,6 +26,7 @@ module.exports = function buildList() {
       ...bscTestnet,
       ...matic,
       ...moonriver,
+      ...avalanche
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
