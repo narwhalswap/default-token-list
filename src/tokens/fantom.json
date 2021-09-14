@@ -1,0 +1,458 @@
+[
+  {
+    "name": "Wrapped FTM",
+    "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+    "symbol": "WFTM",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/thegrandbanks-assets/main/native-tokens/ftm.png"
+  },
+  {
+    "name": "BIFI",
+    "address": "0xd6070ae98b8069de6B494332d1A1a81B6179D960",
+    "symbol": "BIFI",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/BIFI.png"
+  },
+  {
+    "name": "BNB",
+    "address": "0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454",
+    "symbol": "BNB",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+  },
+  {
+    "name": "BOO",
+    "address": "0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE",
+    "symbol": "BOO",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/BOO.png"
+  },
+  {
+    "name": "BORG",
+    "address": "0xE9828045632b32E2aaC7f3a4C1511C0d8965576C",
+    "symbol": "BORG",
+    "decimals": 8,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/BORG.png"
+  },
+  {
+    "name": "BORGDAI",
+    "address": "0x4F16b83e55b92E6F8F7Da6D78Dd19d5a00954864",
+    "symbol": "BORGDAI",
+    "decimals": 9,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/BORGDAI.png"
+  },
+  {
+    "name": "BUSD",
+    "address": "0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+  },
+  {
+    "name": "COVER",
+    "address": "0xB01E8419d842beebf1b70A7b5f7142abbaf7159D",
+    "symbol": "COVER",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/COVER.png"
+  },
+  {
+    "name": "CREAM",
+    "address": "0x657A1861c15A3deD9AF0B6799a195a249ebdCbc6",
+    "symbol": "CREAM",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/CREAM.png"
+  },
+  {
+    "name": "CRV",
+    "address": "0x1E4F97b9f9F913c46F1632781732927B9019C68b",
+    "symbol": "CRV",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/CRV.png"
+  },
+  {
+    "name": "DAI",
+    "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/DAI.png"
+  },
+  {
+    "name": "LINK",
+    "address": "0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8",
+    "symbol": "LINK",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/LINK.png"
+  },
+  {
+    "name": "DEATH",
+    "address": "0xeaF45B62d9d0Bdc1D763baF306af5eDD7C0d7e55",
+    "symbol": "DEATH",
+    "decimals": 9,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/DEATH.png"
+  },
+  {
+    "name": "ECHO",
+    "address": "0x54477A1D1bb8C1139eEF754Fd2eFd4DDeE7933dd",
+    "symbol": "ECHO",
+    "decimals": 9,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/ECHO.png"
+  },
+  {
+    "name": "ELE",
+    "address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
+    "symbol": "ELE",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/ELE.png"
+  },
+  {
+    "name": "ELK",
+    "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+    "symbol": "ELK",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/ELK.png"
+  },
+  {
+    "name": "FRAX",
+    "address": "0xaf319E5789945197e365E7f7fbFc56B130523B33",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/FRAX.png"
+  },
+  {
+    "name": "FUSD",
+    "address": "0xAd84341756Bf337f5a0164515b1f6F993D194E1f",
+    "symbol": "FUSD",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/FUSD.png"
+  },
+  {
+    "name": "fUSDT",
+    "address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
+    "symbol": "fUSDT",
+    "decimals": 6,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/fUSDT.png"
+  },
+  {
+    "name": "FXS",
+    "address": "0x82F8Cb20c14F134fe6Ebf7aC3B903B2117aAfa62",
+    "symbol": "FXS",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/FXS.png"
+  },
+  {
+    "name": "GDELI",
+    "address": "0xFa1807BD24a438b389Ca33072375dfbBA74dfaAb",
+    "symbol": "GDELI",
+    "decimals": 9,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/GDELI.png"
+  },
+  {
+    "name": "GINSPIRIT",
+    "address": "0x2787BEa3366335068bF8B4a253044d09eA4E1C96",
+    "symbol": "GINSPIRIT",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/GINSPIRIT.png"
+  },
+  {
+    "name": "GRIM",
+    "address": "0x7eC94C4327dC757601B4273cD67014d7760Be97E",
+    "symbol": "GRIM",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/GRIM.png"
+  },
+  {
+    "name": "GTON",
+    "address": "0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4",
+    "symbol": "GTON",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/GTON.png"
+  },
+  {
+    "name": "HODL",
+    "address": "0xB2Da66c4a89D0f93935D1efDB9C9c8D1d3Ba9343",
+    "symbol": "HODL",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/HODL.png"
+  },
+  {
+    "name": "ICE",
+    "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
+    "symbol": "ICE",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/ICE.png"
+  },
+  {
+    "name": "iFUSD",
+    "address": "0x9fC071cE771c7B27b7d9A57C32c0a84c18200F8a",
+    "symbol": "iFUSD",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/iFUSD.png"
+  },
+  {
+    "name": "JUST",
+    "address": "0x37C045bE4641328DFEB625f1Dde610D061613497",
+    "symbol": "JUST",
+    "decimals": 10,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/JUST.png"
+  },
+  {
+    "name": "KINS",
+    "address": "0x6ECED8E16eDA61E65292f019B165542A5906ecD6",
+    "symbol": "KINS",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/KINS.png"
+  },
+  {
+    "name": "KLING",
+    "address": "0x983235dC2a7b5e5a0820066480b19f04EEf83986",
+    "symbol": "KLING",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/KLING.png"
+  },
+  {
+    "name": "LQDR",
+    "address": "0x10b620b2dbAC4Faa7D7FFD71Da486f5D44cd86f9",
+    "symbol": "LQDR",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/LQDR.png"
+  },
+  {
+    "name": "MENSA",
+    "address": "0x6B77d8B9be440FcbfE72CB4104d98bBd7cF91B14",
+    "symbol": "MENSA",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/MENSA.png"
+  },
+  {
+    "name": "MIM",
+    "address": "0x82f0B8B456c1A451378467398982d4834b6829c1",
+    "symbol": "MIM",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/MIM.png"
+  },
+  {
+    "name": "MM",
+    "address": "0xbFaf328Fe059c53D936876141f38089df0D1503D",
+    "symbol": "MM",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/MM.png"
+  },
+  {
+    "name": "NIPS",
+    "address": "0x667Afbb7D558c3dFd20fAbd295D31221Dab9dBC2",
+    "symbol": "NIPS",
+    "decimals": 9,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/NIPS.png"
+  },
+  {
+    "name": "RAI",
+    "address": "0xa71353Bb71DdA105D383B02fc2dD172C4D39eF8B",
+    "symbol": "RAI",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/RAI.png"
+  },
+  {
+    "name": "REAPER",
+    "address": "0x117dB78176C8eDe4F12fCd29d85Cd96b91A4cbBb",
+    "symbol": "REAPER",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/REAPER.png"
+  },
+  {
+    "name": "RNDM",
+    "address": "0x49aC072c793FB9523f0688A0d863AAdfbFb5d475",
+    "symbol": "RNDM",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/RNDM.png"
+  },
+  {
+    "name": "SAFEBORG",
+    "address": "0x7B5A8F4C92BA4796C932654ba1DAAA1E74C1a3B2",
+    "symbol": "SAFEBORG",
+    "decimals": 9,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/SAFEBORG.png"
+  },
+  {
+    "name": "SCREAM",
+    "address": "0xe0654C8e6fd4D733349ac7E09f6f23DA256bF475",
+    "symbol": "SCREAM",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/SCREAM.png"
+  },
+  {
+    "name": "SHADE",
+    "address": "0x3A3841f5fa9f2c283EA567d5Aeea3Af022dD2262",
+    "symbol": "SHADE",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/SHADE.png"
+  },
+  {
+    "name": "SNX",
+    "address": "0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc",
+    "symbol": "SNX",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/SNX.png"
+  },
+  {
+    "name": "SPELL",
+    "address": "0x468003B688943977e6130F4F68F23aad939a1040",
+    "symbol": "SPELL",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/SPELL.png"
+  },
+  {
+    "name": "SPIRIT",
+    "address": "0x5Cc61A78F164885776AA610fb0FE1257df78E59B",
+    "symbol": "SPIRIT",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/SPIRIT.png"
+  },
+  {
+    "name": "START",
+    "address": "0x8ca2ecbCE34c322fceA6Db912d9DbfD2DdA5920D",
+    "symbol": "START",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/START.png"
+  },
+  {
+    "name": "STEAK",
+    "address": "0x05848B832E872d9eDd84AC5718D58f21fD9c9649",
+    "symbol": "STEAK",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/STEAK.png"
+  },
+  {
+    "name": "SUSHI",
+    "address": "0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC",
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/SUSHI.png"
+  },
+  {
+    "name": "TAROT",
+    "address": "0xC5e2B037D30a390e62180970B3aa4E91868764cD",
+    "symbol": "TAROT",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/TAROT.png"
+  },
+  {
+    "name": "TOMB",
+    "address": "0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7",
+    "symbol": "TOMB",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/TOMB.png"
+  },
+  {
+    "name": "TOTEM",
+    "address": "0x31a37aedC0C18AA139e120e1CDC673BbB2063e6f",
+    "symbol": "TOTEM",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/TOTEM.png"
+  },
+  {
+    "name": "UNIDX",
+    "address": "0x2130d2a1e51112D349cCF78D2a1EE65843ba36e0",
+    "symbol": "UNIDX",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/UNIDX.png"
+  },
+  {
+    "name": "USDC",
+    "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+    "symbol": "USDC",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/USDC.png"
+  },
+  {
+    "name": "WBTC",
+    "address": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/WBTC.png"
+  },
+  {
+    "name": "WETH",
+    "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/WETH.png"
+  },
+  {
+    "name": "WOOFY",
+    "address": "0xD0660cD418a64a1d44E9214ad8e459324D8157f1",
+    "symbol": "WOOFY",
+    "decimals": 12,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/WOOFY.png"
+  },
+  {
+    "name": "xSTEAK",
+    "address": "0xb632c5d42BD4a44a617608Ad1c7d38f597E22E3C",
+    "symbol": "xSTEAK",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/xSTEAK.png"
+  },
+  {
+    "name": "YFI",
+    "address": "0x29b0Da86e484E1C0029B56e817912d778aC0EC69",
+    "symbol": "YFI",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://swap.spiritswap.finance/images/coins/YFI.png"
+  }
+]
