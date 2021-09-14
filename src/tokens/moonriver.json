@@ -46,5 +46,37 @@
     "decimals": 6,
     "chainId": 1285,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "address": "0xB3FB48bF090bEDFF4f6F93FFb40221742E107db7",
+    "chainId": 1285,
+    "name": "MoonSwap Token",
+    "symbol": "mSWAP",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/moonfarmin/moonfarm-contracts-v2/master/images/moonswap.png"
+  },
+  {
+    "address": "0xB497c3E9D27Ba6b1fea9F1b941d8C79E66cfC9d6",
+    "chainId": 1285,
+    "name": "MoonFarm Token",
+    "symbol": "MOON",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/moonfarmin/moonfarm-contracts-v2/master/images/moonfarm.png"
+  },
+  {
+    "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
+    "chainId": 1285,
+    "name": "Binance Coin",
+    "symbol": "BNB",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+  },
+  {
+    "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+    "chainId": 1285,
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
   }
 ]
