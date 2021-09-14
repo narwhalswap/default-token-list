@@ -411,7 +411,7 @@
     "name": "USDC",
     "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
     "symbol": "USDC",
-    "decimals": 18,
+    "decimals": 6,
     "chainId": 250,
     "logoURI": "https://swap.spiritswap.finance/images/coins/USDC.png"
   },
