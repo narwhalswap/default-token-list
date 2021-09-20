@@ -1,5 +1,13 @@
 [
   {
+    "name": "The Grand Banks Token",
+    "address": "0xbCF339DF10d78f2b44AA760EAd0F715A7A7d7269",
+    "symbol": "GRAND",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0xeE814F5B2bF700D2e843Dc56835D28d095161dd9.png"
+  },
+  {
     "name": "decentral.games",
     "address": "0x2a93172c8DCCbfBC60a39d56183B7279a2F647b4",
     "symbol": "$DG",
