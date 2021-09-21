@@ -1,6 +1,6 @@
 {
   "name": "@narwhalswap/default-token-list",
-  "version": "1.6.26",
+  "version": "1.6.27",
   "description": "◦ The Narwhalswap default token list",
   "main": "build/tokens.json",
   "scripts": {
