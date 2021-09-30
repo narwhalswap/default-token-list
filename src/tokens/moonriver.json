@@ -48,6 +48,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   },
   {
+    "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+    "chainId": 1285,
+    "name": "USDT",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x55d398326f99059ff775485246999027b3197955.png"
+  },
+  {
     "address": "0xB3FB48bF090bEDFF4f6F93FFb40221742E107db7",
     "chainId": 1285,
     "name": "MoonSwap Token",
