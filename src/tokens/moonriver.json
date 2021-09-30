@@ -78,5 +78,53 @@
     "symbol": "ETH",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
+  },
+  {
+    "address": "0x3516a7588C2E6FFA66C9507eF51853eb85d76e5B",
+    "chainId": 1285,
+    "name": "1SWAP",
+    "symbol": "1SWAP",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/solarbeamio/assets/master/blockchains/moonriver/assets/0x3516a7588C2E6FFA66C9507eF51853eb85d76e5B/logo.png"
+  },
+  {
+    "address": "0x52f04C806EB82930F40D410259b7AF8E18d3BDc9",
+    "chainId": 1285,
+    "name": "MoonKafe",
+    "symbol": "KAFE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/moonfarmin/moonfarm-contracts-v2/master/images/kafe.png"
+  },
+  {
+    "address": "0x2e17c0466895e0a4e3D8CEA64F093339fA1ba279",
+    "chainId": 1285,
+    "name": "Saturn Token",
+    "symbol": "SAT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/moonfarmin/moonfarm-contracts-v2/master/images/saturn.png"
+  },
+  {
+    "address": "0xAd7F1844696652ddA7959a49063BfFccafafEfe7",
+    "chainId": 1285,
+    "name": "Relay Token",
+    "symbol": "RELAY",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/moonfarmin/moonfarm-contracts-v2/master/images/relay.png"
+  },
+  {
+    "address": "0x14a0243C333A5b238143068dC3A7323Ba4C30ECB",
+    "chainId": 1285,
+    "name": "Avalanche Token",
+    "symbol": "AVAX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/moonfarmin/moonfarm-contracts-v2/master/images/avalanche.png"
+  },
+  {
+    "address": "0x682F81e57EAa716504090C3ECBa8595fB54561D8",
+    "chainId": 1285,
+    "name": "Matic Token",
+    "symbol": "MATIC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/moonfarmin/moonfarm-contracts-v2/master/images/polygon.png"
   }
 ]
