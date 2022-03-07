@@ -6,6 +6,7 @@ const moonriver = require("./tokens/moonriver.json");
 const avalanche = require("./tokens/avalanche.json");
 const fantom = require("./tokens/fantom.json");
 const harmony = require("./tokens/harmony.json");
+const moonbeam = require("./tokens/moonbeam.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -29,6 +30,7 @@ module.exports = function buildList() {
       ...avalanche,
       ...fantom,
       ...harmony,
+      ...moonbeam,
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
