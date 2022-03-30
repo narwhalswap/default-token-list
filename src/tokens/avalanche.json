@@ -542,5 +542,13 @@
     "symbol": "STORM",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x6AFD5A1ea4b793CC1526d6Dc7e99A608b356eF7b/logo.png"
+  },
+  {
+    "address": "0x62AceEA3e666C5706Ce1c61055fAc1A669d31D93",
+    "chainId": 43114,
+    "name": "Kalmar Token",
+    "symbol": "KALM",
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x4BA0057f784858a48fe351445C672FF2a3d43515.png"
   }
 ]
