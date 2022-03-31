@@ -53,7 +53,7 @@
     "symbol": "BUSD",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://tokens.pancakeswap.finance/images/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
   },
   {
     "name": "COVER",
@@ -206,14 +206,6 @@
     "decimals": 18,
     "chainId": 250,
     "logoURI": "https://swap.spiritswap.finance/images/coins/ICE.png"
-  },
-  {
-    "name": "iFUSD",
-    "address": "0x9fC071cE771c7B27b7d9A57C32c0a84c18200F8a",
-    "symbol": "iFUSD",
-    "decimals": 18,
-    "chainId": 250,
-    "logoURI": "https://swap.spiritswap.finance/images/coins/iFUSD.png"
   },
   {
     "name": "JUST",
@@ -400,14 +392,6 @@
     "logoURI": "https://swap.spiritswap.finance/images/coins/TOTEM.png"
   },
   {
-    "name": "UNIDX",
-    "address": "0x2130d2a1e51112D349cCF78D2a1EE65843ba36e0",
-    "symbol": "UNIDX",
-    "decimals": 18,
-    "chainId": 250,
-    "logoURI": "https://swap.spiritswap.finance/images/coins/UNIDX.png"
-  },
-  {
     "name": "USDC",
     "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
     "symbol": "USDC",
@@ -438,14 +422,6 @@
     "decimals": 12,
     "chainId": 250,
     "logoURI": "https://swap.spiritswap.finance/images/coins/WOOFY.png"
-  },
-  {
-    "name": "xSTEAK",
-    "address": "0xb632c5d42BD4a44a617608Ad1c7d38f597E22E3C",
-    "symbol": "xSTEAK",
-    "decimals": 18,
-    "chainId": 250,
-    "logoURI": "https://swap.spiritswap.finance/images/coins/xSTEAK.png"
   },
   {
     "name": "YFI",
