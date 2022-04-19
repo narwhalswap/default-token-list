@@ -352,6 +352,14 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x63870A18B6e42b01Ef1Ad8A2302ef50B7132054F.png"
   },
   {
+    "name": "Biswap",
+    "symbol": "BSW",
+    "address": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x965F527D9159dCe6288a2219DB51fc6Eef120dD1.png"
+  },
+  {
     "name": "Binamon",
     "symbol": "BMON",
     "address": "0x08ba0619b1e7A582E0BCe5BBE9843322C954C340",
