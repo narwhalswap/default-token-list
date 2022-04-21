@@ -392,6 +392,14 @@
     "logoURI": "https://swap.spiritswap.finance/images/coins/TOTEM.png"
   },
   {
+    "name": "True USD",
+    "symbol": "TUSD",
+    "address": "0x9879aBDea01a879644185341F7aF7d8343556B7a",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x14016E85a25aeb13065688cAFB43044C2ef86784.png"
+  },
+  {
     "name": "USDC",
     "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
     "symbol": "USDC",

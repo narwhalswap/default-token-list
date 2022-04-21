@@ -139,8 +139,16 @@
     "chainId": 43114,
     "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
     "decimals": 6,
-    "name": "USD Coin",
+    "name": "USDC.e",
     "symbol": "USDC.e",
+    "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+    "decimals": 6,
+    "name": "USD Coin",
+    "symbol": "USDC",
     "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png"
   },
   {
@@ -486,5 +494,21 @@
     "symbol": "KALM",
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x4BA0057f784858a48fe351445C672FF2a3d43515.png"
+  },
+  {
+    "address": "0x130966628846BFd36ff31a822705796e8cb8C18D",
+    "chainId": 43114,
+    "name": "Magic Internet Money",
+    "symbol": "MIM",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x130966628846BFd36ff31a822705796e8cb8C18D/logo.png"
+  },
+  {
+    "address": "0xb599c3590F42f8F995ECfa0f85D2980B76862fc1",
+    "chainId": 43114,
+    "name": "UST Wormhole",
+    "symbol": "UST",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb599c3590F42f8F995ECfa0f85D2980B76862fc1/logo.png"
   }
 ]

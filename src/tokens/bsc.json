@@ -248,6 +248,14 @@
     "logoURI": "https://tokens.pancakeswap.finance/images/0x72fAa679E1008Ad8382959FF48E392042A8b06f7.png"
   },
   {
+    "name": "Apeswap Token",
+    "symbol": "BANANA",
+    "address": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BANANA.svg"
+  },
+  {
     "name": "BAND Protocol Token",
     "symbol": "BAND",
     "address": "0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18",
@@ -1070,6 +1078,14 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xacb2d47827C9813AE26De80965845D80935afd0B.png"
+  },
+  {
+    "name": "MDX Token",
+    "symbol": "MDX",
+    "address": "0x9C65AB58d8d978DB963e63f2bfB7121627e3a739",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://mdex.co/token-icons/bsc/0x9c65ab58d8d978db963e63f2bfb7121627e3a739.png"
   },
   {
     "name": "Mirror GOOGL Token",
