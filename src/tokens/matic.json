@@ -885,7 +885,7 @@
     "symbol": "RAMP",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x8519ea49c997f50ceffa444d240fb655e89248aa.png"
+    "logoURI": "https://pancakeswap.finance/images/tokens/0x8519ea49c997f50ceffa444d240fb655e89248aa.png"
   },
   {
     "name": "Relay Token",
@@ -925,7 +925,7 @@
     "symbol": "rUSD",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x07663837218A003e66310a01596af4bf4e44623D.png"
+    "logoURI": "https://pancakeswap.finance/images/tokens/0x07663837218A003e66310a01596af4bf4e44623D.png"
   },
   {
     "name": "polySAFU",

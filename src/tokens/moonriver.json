@@ -29,7 +29,7 @@
     "symbol": "BUSD",
     "decimals": 18,
     "chainId": 1285,
-    "logoURI": "https://tokens.pancakeswap.finance/images/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+    "logoURI": "https://pancakeswap.finance/images/tokens/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
   },
   {
     "name": "Dai Stablecoin",
@@ -53,7 +53,7 @@
     "name": "USDT",
     "symbol": "USDT",
     "decimals": 6,
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x55d398326f99059ff775485246999027b3197955.png"
+    "logoURI": "https://pancakeswap.finance/images/tokens/0x55d398326f99059ff775485246999027b3197955.png"
   },
   {
     "address": "0xB3FB48bF090bEDFF4f6F93FFb40221742E107db7",
@@ -85,7 +85,7 @@
     "name": "Ethereum",
     "symbol": "ETH",
     "decimals": 18,
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
+    "logoURI": "https://pancakeswap.finance/images/tokens/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
   },
   {
     "address": "0x3516a7588C2E6FFA66C9507eF51853eb85d76e5B",

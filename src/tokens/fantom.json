@@ -53,7 +53,7 @@
     "symbol": "BUSD",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://tokens.pancakeswap.finance/images/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
+    "logoURI": "https://pancakeswap.finance/images/tokens/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
   },
   {
     "name": "COVER",
@@ -397,7 +397,7 @@
     "address": "0x9879aBDea01a879644185341F7aF7d8343556B7a",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x14016E85a25aeb13065688cAFB43044C2ef86784.png"
+    "logoURI": "https://pancakeswap.finance/images/tokens/0x14016E85a25aeb13065688cAFB43044C2ef86784.png"
   },
   {
     "name": "USDC",
@@ -461,6 +461,6 @@
     "symbol": "KALM",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://tokens.pancakeswap.finance/images/0x4BA0057f784858a48fe351445C672FF2a3d43515.png"
+    "logoURI": "https://pancakeswap.finance/images/tokens/0x4BA0057f784858a48fe351445C672FF2a3d43515.png"
   }
 ]
