@@ -5,7 +5,7 @@
     "symbol": "WBNB",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"    
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
   },
   {
     "name": "NAR Token",
@@ -1798,5 +1798,29 @@
     "chainId": 56,
     "decimals": 12,
     "logoURI": "https://pancakeswap.finance/images/tokens/0xb86AbCb37C3A4B64f74f59301AFF131a1BEcC787.png"
+  },
+  {
+    "name": "Wombat Token",
+    "symbol": "WOM",
+    "address": "0xAD6742A35fB341A9Cc6ad674738Dd8da98b94Fb1",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xAD6742A35fB341A9Cc6ad674738Dd8da98b94Fb1.png"
+  },
+  {
+    "name": "Hay Stablecoin",
+    "symbol": "HAY",
+    "address": "0x0782b6d8c4551B9760e74c0545a9bCD90bdc41E5",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0x0782b6d8c4551B9760e74c0545a9bCD90bdc41E5.png"
+  },
+  {
+    "name": "Ankr BNB Reward Bearing Certificate",
+    "symbol": "aBNBc",
+    "address": "0xE85aFCcDaFBE7F2B096f268e31ccE3da8dA2990A",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xE85aFCcDaFBE7F2B096f268e31ccE3da8dA2990A.png"
   }
 ]

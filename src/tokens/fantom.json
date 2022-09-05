@@ -448,14 +448,6 @@
     "logoURI": "https://tokens.hyperswap.fi/images/0x0575f8738EFdA7F512e3654F277C77e80C7d2725.png"
   },
   {
-    "name": "AURORA",
-    "address": "0xbc2451AaD349b6B43FD05F4F0cC327F8A6bcA2d4",
-    "symbol": "AURORA",
-    "decimals": 18,
-    "chainId": 250,
-    "logoURI": "https://tokens.hyperswap.fi/images/0xbc2451AaD349b6B43FD05F4F0cC327F8A6bcA2d4.png"
-  },
-  {
     "name": "Kalmar Token",
     "address": "0x4f851750a3e6f80f1E1f89C67B56960Bfc29A934",
     "symbol": "KALM",
