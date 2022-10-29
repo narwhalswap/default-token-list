@@ -1829,6 +1829,22 @@
     "address": "0x1bdd3Cf7F79cfB8EdbB955f20ad99211551BA275",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21534.png"
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0x1bdd3Cf7F79cfB8EdbB955f20ad99211551BA275.png"
+  },
+  {
+    "name": "Stader BNBx",
+    "symbol": "BNBx",
+    "address": "0x1bdd3Cf7F79cfB8EdbB955f20ad99211551BA275",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0x1bdd3Cf7F79cfB8EdbB955f20ad99211551BA275.png"
+  },
+  {
+    "name": "Staked BNB",
+    "symbol": "stkBNB",
+    "address": "0xc2E9d07F66A89c44062459A47a0D2Dc038E4fb16",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xc2E9d07F66A89c44062459A47a0D2Dc038E4fb16.png"
   }
 ]
