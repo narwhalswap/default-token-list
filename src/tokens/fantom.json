@@ -453,6 +453,6 @@
     "symbol": "KALM",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://pancakeswap.finance/images/tokens/0x4BA0057f784858a48fe351445C672FF2a3d43515.png"
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0x4BA0057f784858a48fe351445C672FF2a3d43515.png"
   }
 ]
