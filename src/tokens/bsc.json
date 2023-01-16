@@ -1838,5 +1838,29 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0xc2E9d07F66A89c44062459A47a0D2Dc038E4fb16.png"
+  },
+  {
+    "name": "Wombex",
+    "symbol": "WMX",
+    "address": "0xa75d9ca2a0a1D547409D82e1B06618EC284A2CeD",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xa75d9ca2a0a1D547409D82e1B06618EC284A2CeD.png"
+  },
+  {
+    "name": "Magpie",
+    "symbol": "MGP",
+    "address": "0xD06716E1Ff2E492Cc5034c2E81805562dd3b45fa",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xD06716E1Ff2E492Cc5034c2E81805562dd3b45fa.png"
+  },
+  {
+    "name": "Quoll",
+    "symbol": "QUO",
+    "address": "0x08b450e4a48C04CDF6DB2bD4cf24057f7B9563fF",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0x08b450e4a48C04CDF6DB2bD4cf24057f7B9563fF.png"
   }
 ]
