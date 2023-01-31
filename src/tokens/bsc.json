@@ -1862,5 +1862,13 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0x08b450e4a48C04CDF6DB2bD4cf24057f7B9563fF.png"
+  },
+  {
+    "name": "Shiba Inu",
+    "symbol": "SHIB",
+    "address": "0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0x2859e4544C4bB03966803b044A93563Bd2D0DD4D.png"
   }
 ]
