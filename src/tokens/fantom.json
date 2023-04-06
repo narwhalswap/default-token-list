@@ -440,14 +440,6 @@
     "logoURI": "https://swap.spiritswap.finance/images/coins/YFI.png"
   },
   {
-    "name": "ORI",
-    "address": "0x0575f8738EFdA7F512e3654F277C77e80C7d2725",
-    "symbol": "ORI",
-    "decimals": 18,
-    "chainId": 250,
-    "logoURI": "https://tokens.hyperswap.fi/images/0x0575f8738EFdA7F512e3654F277C77e80C7d2725.png"
-  },
-  {
     "name": "Kalmar Token",
     "address": "0x4f851750a3e6f80f1E1f89C67B56960Bfc29A934",
     "symbol": "KALM",

@@ -381,7 +381,7 @@
     "decimals": 18,
     "name": "Weble Ecosystem Token",
     "symbol": "WET",
-    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D/logo_48.png"
   },
   {
     "chainId": 43114,
@@ -389,7 +389,7 @@
     "decimals": 18,
     "name": "Yield Yak",
     "symbol": "YAK",
-    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7/logo_48.png"
   },
   {
     "chainId": 43114,
@@ -397,7 +397,7 @@
     "decimals": 18,
     "name": "BENQI",
     "symbol": "QI",
-    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5/logo_48.png"
   },
   {
     "chainId": 43114,
@@ -405,7 +405,7 @@
     "decimals": 18,
     "name": "AllianceBlock Token",
     "symbol": "WALBT",
-    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9E037dE681CaFA6E661e6108eD9c2bd1AA567Ecd/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x9E037dE681CaFA6E661e6108eD9c2bd1AA567Ecd/logo_48.png"
   },
   {
     "chainId": 43114,
@@ -413,7 +413,7 @@
     "decimals": 18,
     "name": "Tundra Token",
     "symbol": "TUNDRA",
-    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x21c5402C3B7d40C89Cc472C9dF5dD7E51BbAb1b1/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x21c5402C3B7d40C89Cc472C9dF5dD7E51BbAb1b1/logo_48.png"
   },
   {
     "address": "0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8",
@@ -421,7 +421,7 @@
     "name": "Gaj Finance",
     "symbol": "GAJ",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8/logo_48.png"
   },
   {
     "address": "0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC",
@@ -429,7 +429,7 @@
     "name": "Teddy Cash Token",
     "symbol": "TEDDY",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC/logo_48.png"
   },
   {
     "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
@@ -437,7 +437,7 @@
     "name": "Joe Token",
     "symbol": "JOE",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo_48.png"
   },
   {
     "address": "0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0",
@@ -445,7 +445,7 @@
     "name": "MarginSwap",
     "symbol": "MFI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0/logo_48.png"
   },
   {
     "address": "0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1",
@@ -453,7 +453,7 @@
     "name": "SHIBAVAX",
     "symbol": "SHIBX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1/logo_48.png"
   },
   {
     "address": "0x9eF758aC000a354479e538B8b2f01b917b8e89e7",
@@ -477,7 +477,7 @@
     "name": "FXS",
     "symbol": "FXS",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454/logo_48.png"
   },
   {
     "address": "0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31",
@@ -485,7 +485,7 @@
     "name": "Blue Token",
     "symbol": "BLUE",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31/logo_48.png"
   },
   {
     "address": "0x62AceEA3e666C5706Ce1c61055fAc1A669d31D93",
@@ -501,7 +501,7 @@
     "name": "Magic Internet Money",
     "symbol": "MIM",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x130966628846BFd36ff31a822705796e8cb8C18D/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x130966628846BFd36ff31a822705796e8cb8C18D/logo_48.png"
   },
   {
     "address": "0xb599c3590F42f8F995ECfa0f85D2980B76862fc1",
@@ -509,6 +509,6 @@
     "name": "UST Wormhole",
     "symbol": "UST",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xb599c3590F42f8F995ECfa0f85D2980B76862fc1/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0xb599c3590F42f8F995ECfa0f85D2980B76862fc1/logo_48.png"
   }
 ]
