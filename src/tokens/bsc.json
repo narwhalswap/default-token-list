@@ -1894,5 +1894,13 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0x95c91eEf65F50570cFC3f269961a00108Cf7BF59.png"
+  },
+  {
+    "name": "TON Coin",
+    "symbol": "TONCOIN",
+    "address": "0x76A797A59Ba2C17726896976B7B3747BfD1d220f",
+    "chainId": 56,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0x76A797A59Ba2C17726896976B7B3747BfD1d220f.png"
   }
 ]
