@@ -1902,5 +1902,21 @@
     "chainId": 56,
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/narwhalswap/default-token-list/master/images/0x76A797A59Ba2C17726896976B7B3747BfD1d220f.png"
+  },
+  {
+    "name": "Radiant",
+    "address": "0xf7DE7E8A6bd59ED41a4b5fe50278b3B7f31384dF",
+    "symbol": "RDNT",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.pancakeswap.finance/images/0xf7DE7E8A6bd59ED41a4b5fe50278b3B7f31384dF.png"
+  },
+  {
+    "name": "SaluS Coin",
+    "address": "0x06791B2117ed179dB6af1fdc8B2aA86dE76700A6",
+    "symbol": "wSLS",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/359/large/salus.png"
   }
 ]
